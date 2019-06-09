@@ -1,0 +1,7 @@
+{
+  "dbHost": "127.0.0.1",
+  "dbUser": "root",
+  "dbPass": "123456",
+  "dbPort": "3306",
+  "dbName": "test"
+}
